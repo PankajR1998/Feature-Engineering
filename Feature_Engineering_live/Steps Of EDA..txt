@@ -1,0 +1,28 @@
+Feature Engineering steps.
+
+1. Exploratory Data Analysis.
+	(i) Numerical Features(Histogram,PDf)
+	(ii) Categorical variables
+	(iii) Missing values (visualize all the graphas)
+	(iv) outliers (Box-Plot)
+	(v) raw data need cleaning.
+Raw----Useful data( ml model can ingest the data).
+
+2. Handing the Missing values.
+
+3. Handling Imbalanced datasets.
+
+4. Treating Outliers.
+
+5. Scaling down the data.(standardization)
+
+6. Converting categorical features into numerical features.
+
+Feature Selection steps.
+
+1. Correlation.
+2. K Neighbour
+3. Chi Square.
+4. Genitic Algo.
+5. Feature Importance (Extra Tree classifier).
+ 
